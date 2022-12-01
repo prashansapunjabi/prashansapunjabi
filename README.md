@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prashansapunjabi
-- 👀 I’m interested in solving business problems using coding and visualization
+- 👀 I’m interested in solving business problems using analytics and visualization
 - 🌱 I’m currently learning Python, SQL and AWS
 - 💞️ I’m looking to collaborate on machine learning and neural network projects
 - 📫 Reach me at prashansapunjabi1912@gmail.com
