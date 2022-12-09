@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @prashansapunjabi
+- 👋 Hi, I am Prashansa Punjabi, a **Data Analyst** by profession and an eternal learner in life.
 - 👀 I’m interested in solving business problems using analytics and visualization
-- 🌱 I’m currently learning Python, SQL and AWS
+- 🌱 I’m am always learning something new and interesting in Python, SQL and AWS
 - 💞️ I’m looking to collaborate on machine learning and neural network projects
 - 📫 Reach me at prashansapunjabi1912@gmail.com
 
